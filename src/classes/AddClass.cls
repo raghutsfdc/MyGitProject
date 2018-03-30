@@ -20,5 +20,6 @@ public class AddClass {
         System.debug('========v3:' + v3);
         System.debug('========total:' + result);
         return result;
+		
     }
 }
